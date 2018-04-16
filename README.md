@@ -9,7 +9,7 @@ To install this, run:
 https://www.npmjs.com/package/ngx-viewport
 
 # Consuming module
-```
+```typescript
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -36,7 +36,7 @@ export class AppModule { }
 
 # Usage
 
-```
+```xml
 <some-element in-viewport (inViewportAction)="yourHandler()">
   ...
 </some-element>
