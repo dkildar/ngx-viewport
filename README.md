@@ -2,7 +2,7 @@
 
 Detecting any HTMLElement in viewport at the time and handle it.
 
-#Installation
+# Installation
 
 To install this, run:
 ```npm install ngx-viewport```
